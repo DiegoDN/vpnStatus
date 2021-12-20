@@ -4,11 +4,9 @@ You can find more details on [original repo](https://github.com/rvaccarim/vpnSta
 
 My take on this customize two things:
 
-* The icons (the original icons are very good, but I'm colorblind and have a hard time to differentiate between the used icons to show connected and disconnected states). You will see that the icon for connected was chaged to a Big Red Cross to remind me to disconnect from VPN after use (my actual VPN is very slow).
+* The icons - the original icons are very good, but I'm colorblind and have a hard time to differentiate between the used icons to show connected and disconnected states. And you will see that the icon for connected was chaged to a Big Red Cross to remind me to disconnect from VPN after use (my actual VPN is very slow).
 
-  |Original Icon|Modified Icon  |
-  |--|--|
-  |![original icon](https://raw.githubusercontent.com/DiegoDN/vpnStatus/e0a40e667e7e93e12d52f397b6e8377d7778dbe8/vpnStatus/Resources/Active_original.ico =100x) | ![new icon](https://raw.githubusercontent.com/DiegoDN/vpnStatus/e0a40e667e7e93e12d52f397b6e8377d7778dbe8/vpnStatus/Resources/Active.ico =100x) |
+  ![icon comparison](https://i.imgur.com/KGXpOjK.jpg)
 
 * The arguments: For some unknown reason the original args dont always identify my VPN. I've changed the arguments to:
 
