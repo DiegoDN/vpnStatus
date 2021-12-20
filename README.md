@@ -4,7 +4,7 @@ You can find more details on [original repo](https://github.com/rvaccarim/vpnSta
 
 My take on this customize two things:
 
-* The icons - the original icons are very good, but I'm colorblind and have a hard time to differentiate between the used icons to show connected and disconnected states. And you will see that the icon for connected was chaged to a Big Red Cross to remind me to disconnect from VPN after use (my actual VPN is very slow).
+* The icons: The original icons are very good, but I'm colorblind and have a hard time to differentiate between the used icons to show connected and disconnected states. And you will see that the icon for connected was changed to a Big Red Cross to remind me to disconnect from VPN after use (my actual VPN is very slow).
 
   ![icon comparison](https://i.imgur.com/KGXpOjK.jpg)
 
